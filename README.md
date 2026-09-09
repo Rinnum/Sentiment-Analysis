@@ -1,6 +1,6 @@
 # Sentiment Analysis Using NLP
 
-## 📌 Project Overview
+## Project Overview
 
 This project implements a **Natural Language Processing (NLP)** based sentiment analysis system using the **IMDb Movie Reviews dataset**.
 
@@ -15,7 +15,7 @@ This project was completed as part of the **EncoderX Remote Internship – AI/ML
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 The main objectives of this project are:
 
@@ -30,7 +30,7 @@ The main objectives of this project are:
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 The project uses the **IMDb Movie Reviews dataset**.
 
@@ -47,7 +47,7 @@ The dataset is divided into training and testing data for building and evaluatin
 
 ---
 
-## 🔄 NLP Workflow
+## NLP Workflow
 
 The project follows these main steps:
 
