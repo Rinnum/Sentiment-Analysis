@@ -44,7 +44,7 @@ The dataset is divided into training and testing data for building and evaluatin
 
 The project follows these main steps:
 
----text
+```text
 Raw Movie Reviews
         ↓
 Text Preprocessing
